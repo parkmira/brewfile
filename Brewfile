@@ -37,6 +37,7 @@ cask 'skitch'
 cask 'spectacle'
 cask 'xmarks-safari'
 cask 'onyx'
+cask 'phpstorm'
 # Adobe関連
 cask 'flash'
 cask 'adobe-reader'
