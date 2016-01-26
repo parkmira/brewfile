@@ -1,10 +1,10 @@
-homebrew/Brew Bundle用 Brewfileテンプレート
+homebrew/Brew Brewdle用 Brewfileテンプレート
 ===
 
 OSX初期セットアップテンプレートです
 
 - [homebrew](http://brew.sh/index_ja.html)
-- [homebrew/bundle](https://github.com/Homebrew/homebrew-bundle)
+- [homebrew/brewdler](https://github.com/Homebrew/homebrew-bundle)
 - [homebrew/cask](http://caskroom.io/)
 
 ## インストール手順
@@ -19,10 +19,10 @@ OSX初期セットアップテンプレートです
     で探すのに便利です。
 - App StoreからXcodeをダウンロードしたあとライセンス認証を行う
 - homebrewをターミナルからインストールする
-- homebrew/bundleもインストールします
+- homebrew/brewdleもインストールします
 - Brewfileのあるディレクトリで  
   ```
-  brew bundle
+  brew brewdle
   ```  
   と打つとインストールが始まります。
 - 編集したファイルはコミットしてプッシュしておけば、自分好みのBrewfileができます
